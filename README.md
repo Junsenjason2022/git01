@@ -1,4 +1,4 @@
-# 基于SpringBoot+Layui的物业管理系统
+# [基于SpringBoot+Layui的物业管理系统](https://mp.weixin.qq.com/s/XetcwJEuVHGjbGNlg5nJVA)
 
 ### 使用建议
 - 业务逻辑简略，需要细化业务，增加业务开发，如未交费提醒等
@@ -34,7 +34,7 @@
 ### About me
 一个爱学习、爱分享、爱交流的程序员；
 
-欢迎关注个人微信公众号【Java烂笔头】，更多开源项目、一起交流、共同进步；
+欢迎关注个人微信公众号【[Java烂笔头](https://mp.weixin.qq.com/s/XetcwJEuVHGjbGNlg5nJVA)】，更多开源项目、一起交流、共同进步；
 
 **1、课程设计、毕业设计等代码开发问题有偿指导（因人力、精力有限，望理解），小助手微信如下；
 
