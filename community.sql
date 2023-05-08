@@ -103,9 +103,8 @@ CREATE TABLE `clockinnew` (
 -- ----------------------------
 -- Records of clockinnew
 -- ----------------------------
-INSERT INTO `clockinnew` VALUES ('1', '2021-04-26 13:20:32', '2', '0', '0', '江西省南昌市御景花园小区16栋1单元601', '无');
+INSERT INTO `clockinnew` VALUES ('1', '2021-04-26 13:20:00', '2', '0', '0', '江西省南昌市御景花园小区16栋1单元601', '无');
 INSERT INTO `clockinnew` VALUES ('6', '2021-04-26 16:00:00', '2', '0', '0', '测试', '');
-INSERT INTO `clockinnew` VALUES ('16', '2021-04-27 16:00:00', '2', '0', '0', '测试', '无');
 INSERT INTO `clockinnew` VALUES ('17', '2021-04-27 16:00:00', '1', '1', '0', '测试', 'v二十');
 INSERT INTO `clockinnew` VALUES ('18', '2021-10-29 16:00:00', '2', '0', '0', '江苏盐城', '无');
 INSERT INTO `clockinnew` VALUES ('19', '2021-10-29 16:00:00', '9', '0', '0', '深圳宝安', '无');
